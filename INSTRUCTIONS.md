@@ -20,8 +20,8 @@ Video Walkthrough: https://youtu.be/eHaXw8Bd_ms
 6.  Customize lines 11-21 to fit your description
 7.  Customize your Socials section (23-33)
 8.  Customize your Tools section (37-42)
-9.  On line 50, change `/legacywebhub/legacywebhub/` to `/<your-username>/<your-username>/`. This will make sure that you're fetching your snake contributions svg and not mine.
-10. In your stats section, rename `https://github-readme-legacywebhub.vercel.app` to `https://github-readme-stats.vercel.app`. The first one is my private instance of the repo, and I use it so my private contributions are taken into account as well. Hosting your private instance of github-readme-stats on Vercel is quite a simple process and recommended; if you're interested, click [here](https://github.com/legacywebhub/github-readme-stats#deploy-on-your-own).
-11. In the same section, replace `github-readme-streak-stats-legacywebhub.vercel.app` with `https://streak-stats.demolab.com`. If you want to host your own instance, which I highly recommend as it is down often, follow the instructions [here](https://github.com/DenverCoder1/github-readme-streak-stats?tab=readme-ov-file#next-steps).
+9.  On line 50, change `/paulsonlegacy/paulsonlegacy/` to `/<your-username>/<your-username>/`. This will make sure that you're fetching your snake contributions svg and not mine.
+10. In your stats section, rename `https://github-readme-paulsonlegacy.vercel.app` to `https://github-readme-stats.vercel.app`. The first one is my private instance of the repo, and I use it so my private contributions are taken into account as well. Hosting your private instance of github-readme-stats on Vercel is quite a simple process and recommended; if you're interested, click [here](https://github.com/paulsonlegacy/github-readme-stats#deploy-on-your-own).
+11. In the same section, replace `github-readme-streak-stats-paulsonlegacy.vercel.app` with `https://streak-stats.demolab.com`. If you want to host your own instance, which I highly recommend as it is down often, follow the instructions [here](https://github.com/DenverCoder1/github-readme-streak-stats?tab=readme-ov-file#next-steps).
 12. Customize your support link or replace it with footer typing animation (line 73).
 13. You're good to go! Make sure to leave a ⭐ if you like this repo!
