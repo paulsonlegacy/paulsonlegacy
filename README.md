@@ -1,20 +1,20 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=paulsonlegacy.paulsonlegacy" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Paulson+Bosah!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Paulson+C.+Bosah!;" />
 </h1>
 
-<h3 align="center">A passionate web developer and problem solver</h3>
+<h3 align="center">A self-taught web developer and problem solver</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a web portal**
+ 🔭 I’m currently working on **a SaaS project**
  
- 🌱 I’m currently learning **Laravel**
+ 🌱 I’m currently learning **Golang**
 
-💬 Ask me about **Django, PHP, Laravel... or anything [here](https://github.com/paulsonlegacy/paulsonlegacy/issues)**
+💬 Ask me about **Django, PHP, Golang [here](https://github.com/paulsonlegacy/paulsonlegacy/issues)**
 
 ⚡ Fun fact **Avatar: The Last Airbender show was inspired by a real martial art called tai chi**
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,django,react,bootstrap,javascript,html,css,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=python,django,php,laravel,go,bootstrap,javascript,html,css,mysql" />
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /><br>
   </a>
 </div>
